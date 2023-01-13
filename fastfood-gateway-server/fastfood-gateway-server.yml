@@ -17,5 +17,4 @@ management:
    health:
      show-details: "ALWAYS"
  
-     show-details: "ALWAYS"
 
